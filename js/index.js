@@ -100,7 +100,6 @@ function moveDown() {
   pos_y--;
   setPos();
 
-  console.log(pos_x + '=>' + pos_y);
 }
 
 function moveCenter() {
